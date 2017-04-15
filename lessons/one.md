@@ -3,7 +3,7 @@
 * [Setup Cloud9 Workspace](#setup-cloud9-workspace)
 * [Run simple Python Progam](#run-simple-python-program)
 * [Next Lesson](#next-lesson)
-* [Diff](https://github.com/lathonez/powwow/compare/lesson-one...lesson-two)
+* [Diff](https://github.com/lathonez/wangka/compare/lesson-one...lesson-two)
 
 ## New concepts being addressed
 
@@ -57,4 +57,4 @@ We have written our first bit of python in c9.
 
 ## Next Lesson
 
-Next time we're going to start work on our number translation program
+Next time we're going to write our first `function` in Python!
