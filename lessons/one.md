@@ -2,6 +2,8 @@
 
 * [Setup Cloud9 Workspace](#setup-cloud9-workspace)
 * [Run simple Python Progam](#run-simple-python-program)
+* [Next Lesson](#next-lesson)
+* [Diff](https://github.com/lathonez/powwow/compare/lesson-one...lesson-two)
 
 ## New concepts being addressed
 
