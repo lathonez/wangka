@@ -14,9 +14,21 @@ def get_wangka_number(number):
 
         mw_num = "kuja"
 
+    elif number == 2:
+
+        mw_num = get_wangka_number(1) + "rra"
+
+    elif number == 3:
+
+        mw_num = get_wangka_number(2) + " " + get_wangka_number(1)
+
+    elif number == 4:
+
+        mw_num = get_wangka_number(2) + get_wangka_number(2)    
+
     else:
 
-        mw_num = "nope"
+        mw_num = ""
 
     return mw_num
 
