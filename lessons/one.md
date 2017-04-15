@@ -8,6 +8,7 @@
 * IDE
 * Cloud
 * Command Line (CLI)
+* Printing Text
 
 ## Setup Cloud9 Worskapce
 
@@ -46,7 +47,7 @@ The first thing we want to do with the command line, is find our file.
 
 ## Run Simple Python Program
 
-Add the following code to the file, and re-run it
+Add the following code to the file, and re-run it. This code is asking Python to say something to the user via the command line. Very similar to "looks > say" in scratch.
 
 `print 'hello world!'`
 
