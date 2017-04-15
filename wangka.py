@@ -4,9 +4,19 @@ def run_wangka_program():
 
     print("Welcome to The Martu Wangka Numbers!")
 
-    number = int(input("Please enter a number: "))
+    while True:
 
-    print("The Martu Wangka says: " + get_wangka_number(number))
+        number = int(input("Please enter a number: "))
+
+        print("The Martu Wangka says: " + get_wangka_number(number))
+
+        ans = raw_input("Would you like to try another number? (y/n) ")
+
+        if ans == "n":
+
+            print("Thank you for learning The Martu Wangka Numbers!")
+
+            break
 
 def get_wangka_number(number):
 
