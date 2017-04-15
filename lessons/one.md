@@ -1,7 +1,7 @@
 ## Lesson Objectives
 
 * [Setup Cloud9 Workspace](#setup-cloud9-workspace)
-* Run simple Python Progam
+* [Run simple Python Progam](#run-simple-python-program)
 
 ## New concepts being addressed
 
@@ -42,6 +42,9 @@ The first thing we want to do with the command line, is find our file.
 
 * Type `ls` in the console, we should see `wangka.py` in the output
 * Type `python wangka.py` in the console. Nothing happend - ask the students why - they know this from scratch! (we haven't told the computer to do anything yet - the file is empty)*[]:
+
+
+## Run Simple Python Program
 
 Add the following code to the file, and re-run it
 
