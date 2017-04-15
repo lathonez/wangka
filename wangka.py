@@ -8,15 +8,21 @@ def run_wangka_program():
 
         number = int(input("Please enter a number: "))
 
-        print("The Martu Wangka says: " + get_wangka_number(number))
+        if(number > 9999999999999999):
 
-        ans = raw_input("Would you like to try another number? (y/n) ")
+            ans = raw_input("Please enter a number smaller than 9999999999999999. Press Enter to continue.")
 
-        if ans == "n":
+        else:
+
+            print("The Martu Wangka says: " + get_wangka_number(number))
+
+        ans = input("Would you like to try another number? (y/n) ")
+
+        if ans == 'n':
 
             print("Thank you for learning The Martu Wangka Numbers!")
 
-            break
+            break  
 
 def get_wangka_number(number):
 
