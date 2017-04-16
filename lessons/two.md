@@ -9,6 +9,8 @@
 ## New concepts being addressed
 
 * Martu Wangka Numbering System
+* Functions
+* Python Indentation
 
 ## Understand Martu Wangka Numbering System
 
@@ -35,7 +37,7 @@ Number | Martu Wangka |Explanation
 
 ## Project Explanation
 
-We want to write a program that asks us for a number. We give it a number (22) and it replies to us with the correct word in Martu Wangka (marakujarra marakujarra kuja).
+We want to write a program that asks us for a number. We give it a number (22) and it replies to us with the correct word in Martu Wangka (marakujarrakujarra kujarra).
 
 After that, we will make a website for this, so anyone in the world can use our translator to figure out the numbers.
 
@@ -71,6 +73,6 @@ Ask a student to remove the third line of code and run the program again. Nothin
 
 ## Next Lesson
 
-Next time we're going to
+Next time we're going to capture input from the user and print it out
 
 Lesson written by Uyen Nguyen edited by Stephen Hazleton
