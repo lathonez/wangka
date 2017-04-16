@@ -1,4 +1,5 @@
 import web
+import wangka
 
 urls = (
     '/translate', 'translate',
@@ -14,7 +15,7 @@ class hello:
 class translate:
     def GET(self):
         user_data = web.input()
-        return user_data.number
+        return wangka.wangka().get_wangka_number(int(user_data.number))
 
 if __name__ == "__main__":
     app.run()
