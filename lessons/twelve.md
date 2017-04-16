@@ -74,6 +74,6 @@ Next time we're going to use CSS to create a cool theme for our website
 
 ## Screenshots
 
-![negative](https://github.com/lathonez/powwow/blob/master/lessons/screens/12-negative.png "negative")
+![negative](https://github.com/lathonez/wangka/blob/master/lessons/screens/12-negative.png "negative")
 
-![large](https://github.com/lathonez/powwow/blob/master/lessons/screens/12-large.png "large")
+![large](https://github.com/lathonez/wangka/blob/master/lessons/screens/12-large.png "large")

@@ -56,4 +56,4 @@ Next time we're going to use Javascript to check the user's input (client side v
 
 ## Screenshots
 
-![formatted output](https://github.com/lathonez/powwow/blob/master/lessons/screens/11-after.png "formatted output")
+![formatted output](https://github.com/lathonez/wangka/blob/master/lessons/screens/11-after.png "formatted output")

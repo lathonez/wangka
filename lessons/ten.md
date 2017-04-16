@@ -80,4 +80,4 @@ Next time we're going to format the translation nicely for our users - at the mo
 
 ## Screenshots
 
-![translated output](https://github.com/lathonez/powwow/blob/master/lessons/screens/10-after.png "translated output")
+![translated output](https://github.com/lathonez/wangka/blob/master/lessons/screens/10-after.png "translated output")

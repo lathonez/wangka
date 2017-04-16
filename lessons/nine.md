@@ -105,5 +105,5 @@ Next time we're going to pass the number through to our translator
 
 ## Screenshots
 
-![Our first HTML page](https://github.com/lathonez/powwow/blob/master/lessons/screens/9-after.png "Our first HTML page")
+![Our first HTML page](https://github.com/lathonez/wangka/blob/master/lessons/screens/9-after.png "Our first HTML page")
 
