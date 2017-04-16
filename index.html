@@ -1,5 +1,7 @@
 <head>
     <title>Martu Wangka Numeric Translator</title>
+    <link rel="stylesheet" type="text/css" href="static/wangka.css">
+    <link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah" rel="stylesheet">
 </head>
 <body>
     <script type="text/javascript">
@@ -17,9 +19,11 @@
             }
         }
     </script>
-    <h3>Enter a number below to translate it into Martu Wangka!</h3>
-    <form name="translate" action="/translate" onsubmit="return validateform()" method="get">
-        <input type="number" name="number" required/>
-        <button>Translate!</button>
-    </form>
+    <div class="content">
+        <h3>Enter a number below to translate it into Martu Wangka!</h3>
+        <form name="translate" action="/translate" onsubmit="return validateform()" method="get">
+            <input type="number" name="number" required/>
+            <button>Translate!</button>
+        </form>
+    </div>
 </body>
