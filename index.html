@@ -2,9 +2,24 @@
     <title>Martu Wangka Numeric Translator</title>
 </head>
 <body>
+    <script type="text/javascript">
+        function validateform() {
+            var number = parseInt(document.forms["translate"]["number"].value);
+            
+            if (number < 1) {
+                alert("Please enter a number greater than zero!");
+                return false;
+            }
+            
+            if (number > 9999999999999999) {
+                alert("Please enter a number smaller than 9999999999999999!");
+                return false;
+            }
+        }
+    </script>
     <h3>Enter a number below to translate it into Martu Wangka!</h3>
-    <form action="/translate" method="get">
-        <input type="number" name="number"/>
+    <form name="translate" action="/translate" onsubmit="return validateform()" method="get">
+        <input type="number" name="number" required/>
         <button>Translate!</button>
     </form>
 </body>
