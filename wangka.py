@@ -22,7 +22,7 @@ def run_wangka_program():
 
             print("Thank you for learning The Martu Wangka Numbers!")
 
-            break  
+            break
 
 def get_wangka_number(number):
 
