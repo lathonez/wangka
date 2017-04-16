@@ -18,6 +18,6 @@ Indigenous Number Translator in Python
 * [Lesson Twelve - Validate user input with Javascript](https://github.com/lathonez/wangka/blob/master/lessons/twelve.md)
 * [Lesson Thirteen - Add Styling](https://github.com/lathonez/wangka/blob/master/lessons/thirteen.md)
 
-![index](https://github.com/lathonez/wangka/blob/master/lessons/screens/13-index.png "index")
+![index](https://github.com/lathonez/wangka/blob/master/lessons/screens/13-index.PNG "index")
 
 

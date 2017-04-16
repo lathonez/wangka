@@ -165,6 +165,6 @@ Depending on which font was chosen, you may want to change the size of it (using
 
 ## Screenshots
 
-![index](https://github.com/lathonez/wangka/blob/master/lessons/screens/13-index.png "index")
+![index](https://github.com/lathonez/wangka/blob/master/lessons/screens/13-index.PNG "index")
 
-![translateds](https://github.com/lathonez/wangka/blob/master/lessons/screens/13-translated.png "translateds")
+![translated](https://github.com/lathonez/wangka/blob/master/lessons/screens/13-translated.PNG "translated")
