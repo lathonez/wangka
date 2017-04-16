@@ -15,7 +15,10 @@ class hello:
 class translate:
     def GET(self):
         user_data = web.input()
-        return wangka.wangka().get_wangka_number(int(user_data.number))
+        number = int(user_data.number)
+        result = wangka.wangka().get_wangka_number(int(user_data.number))
+        render = web.template.render('.')
+        return render.translated(number, result)
 
 if __name__ == "__main__":
     app.run()
