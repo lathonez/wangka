@@ -116,6 +116,7 @@ We can do 506 (our background height) -125, -60 (padding) = 160:
 .content {
     margin-top: 160px;
 }
+```
 
 Our home page looks really cool now, but not so with our translated page. As the content here varies so much in length, our best bet is just to make the whole background opaque and use a little padding. Change the class in our div to "translated" so we can give it a different style from the main page:
 
